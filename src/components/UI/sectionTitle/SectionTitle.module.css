@@ -1,0 +1,12 @@
+.wrap {
+  text-align: center;
+}
+.pill {
+  color: var(--primary-500);
+  background-color: var(--primary-100);
+  text-align: center;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border-radius: 50px;
+  display: inline-block;
+}
